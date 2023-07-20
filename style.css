@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(23, 23, 23);
+}
+
+.poster{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+.fl{
+    width: 80%;
+    border: 5px solid red;
+}
+
+p{
+    color: red;
+    font-size: 50px;
+    font-family: 'Vollkorn', serif;
+}
+
+h1{
+    margin-bottom: 50px;
+}
